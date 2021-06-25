@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+     <PackageId>Lubby</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Keisy Daniel Barcellos</Authors>
+    <Company>UUDI</Company>
+    <Description>
+      Some nice Description here.
+    </Description>
+  </PropertyGroup>
+  
+</Project>

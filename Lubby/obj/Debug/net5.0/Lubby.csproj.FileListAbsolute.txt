@@ -1,0 +1,12 @@
+/home/keisy/Github/keisyd/nuget-samples/Lubby/bin/Debug/net5.0/Lubby.deps.json
+/home/keisy/Github/keisyd/nuget-samples/Lubby/bin/Debug/net5.0/Lubby.dll
+/home/keisy/Github/keisyd/nuget-samples/Lubby/bin/Debug/net5.0/ref/Lubby.dll
+/home/keisy/Github/keisyd/nuget-samples/Lubby/bin/Debug/net5.0/Lubby.pdb
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.csproj.AssemblyReference.cache
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.GeneratedMSBuildEditorConfig.editorconfig
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.AssemblyInfoInputs.cache
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.AssemblyInfo.cs
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.csproj.CoreCompileInputs.cache
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.dll
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/ref/Lubby.dll
+/home/keisy/Github/keisyd/nuget-samples/Lubby/obj/Debug/net5.0/Lubby.pdb

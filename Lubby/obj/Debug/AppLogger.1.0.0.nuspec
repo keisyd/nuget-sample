@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppLogger</id>
+    <version>1.0.0</version>
+    <authors>Keisy Daniel Barcellos</authors>
+    <description>This client library enables working with the Microsoft Azure Storage Blob service for storing binary and text data.</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/keisy/Github/keisyd/nuget-samples/Lubby/bin/Debug/net5.0/Lubby.dll" target="lib/net5.0/Lubby.dll" />
+  </files>
+</package>
